@@ -1,0 +1,17 @@
+{
+    "name": "grove-tb6612fng",
+    "version": "1.0.0",
+    "description": "Blocs MakeCode pour le Grove Motor Driver TB6612FNG (I2C)",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
